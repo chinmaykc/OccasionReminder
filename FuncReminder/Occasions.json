@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "John Doe",
+    "Date": "2000-01-01",
+    "Occasion": "Birthday",
+    "Class": "0"
+  },
+  {
+    "Name": "Jane Doe",
+    "Date": "2000-01-02",
+    "Occasion": "Wedding",
+    "Class": "1"
+  }
+]
